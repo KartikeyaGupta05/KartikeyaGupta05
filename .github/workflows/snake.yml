@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -20,9 +22,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake to output branch
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update snake animation"
-          file_pattern: dist/github-contribution-grid-snake.svg
-          branch: output
+      - name: Commit and Push to main branch (force)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout main
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push --force origin main
