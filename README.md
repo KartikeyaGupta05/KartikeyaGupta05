@@ -68,8 +68,13 @@
 </p>
 
 ---
+## 🎖 Holopin Badges
 
-# 🚀 **Featured Projects **
+[![An image of @kartikeyagupta05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikeyagupta05)](https://holopin.io/@kartikeyagupta05)
+
+---
+
+# 🚀 **Featured Projects**
 
 ## 🍽️ **Zwigato – Food Delivery App (MERN)**
 A complete food delivery system with:
