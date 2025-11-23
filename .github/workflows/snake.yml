@@ -8,9 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -19,17 +20,13 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake SVG to output branch
-        run: |
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-          git config --local user.email "github-actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update snake animation"
+          file_pattern: dist/github-contribution-grid-snake.svg
