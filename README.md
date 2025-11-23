@@ -69,7 +69,7 @@
 
 ---
 
-# 🚀 **Featured Projects (Description Only)**
+# 🚀 **Featured Projects **
 
 ## 🍽️ **Zwigato – Food Delivery App (MERN)**
 A complete food delivery system with:
