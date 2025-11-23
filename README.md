@@ -64,7 +64,7 @@
 
 ## 🐍 **Contribution Snake Animation**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KartikeyaGupta05/KartikeyaGupta05/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KartikeyaGupta05/KartikeyaGupta05/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
