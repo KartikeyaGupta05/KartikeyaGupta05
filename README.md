@@ -21,7 +21,7 @@
 - 🔥 Solved **450+ LeetCode problems**  
 - 🤖 Learning **AI Agents, LangChain, ML Models**  
 - 🚀 Built **Zwigato**, **Monastery360**, **Ecomart**, **Todo Pro+**  
-- 🏅 **Hacktoberfest Finisher**  
+- 🏅 **Contibute in Hacktoberfest & GSSOC 2025 as Open Source Contributer**  
 - 🎯 Aim: Build full-stack + AI-powered applications  
 
 <p align="left">
@@ -44,7 +44,7 @@
 
 ### 🛠 Tools & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,postman,vercel,netlify" />
 </p>
 
 ---
@@ -103,25 +103,17 @@ A marketplace that promotes sustainability with:
 
 ---
 
-## 📘 **450+ LeetCode Problems**
-Practiced key DSA patterns:
-- Sliding Window  
-- Dynamic Programming  
-- Trees + Graphs  
-- Backtracking  
-- Bit Manipulation  
-
----
-
 ## 🌐 **Connect With Me**
-<p>
-  <a href="https://linkedin.com/in/kartikeyagupta05">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<p style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://linkedin.com/in/kartikeyagupta05" target="_blank" aria-label="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="transition: 0.2s;"/>
   </a>
-  <a href="mailto:kartikeyagupta998@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+
+  <a href="mailto:kartikeyagupta998@gmail.com" aria-label="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="transition: 0.2s;"/>
   </a>
 </p>
+
 
 ---
 
