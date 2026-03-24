@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1100&color=9A4DFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Kartikeya+Gupta;MERN+Stack+Developer;AI+%26+DS+Student;450%2B+LeetCode+Questions;Open-Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1100&color=9A4DFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Kartikeya+Gupta;MERN+Stack+Developer;AI+%26+DS+Student;650%2B+LeetCode+Questions;Open-Source+Contributor" />
 </h1>
 
 <!-- Visitor Counter -->
@@ -18,9 +18,9 @@
 
 - 🎓 B.Tech **AI & DS** (3rd Year)  
 - 💻 MERN Stack Developer building real-world projects  
-- 🔥 Solved **450+ LeetCode problems**  
+- 🔥 Solved **650+ LeetCode problems**  
 - 🤖 Learning **AI Agents, LangChain, ML Models**  
-- 🚀 Built **Zwigato**, **Monastery360**, **Ecomart**, **Todo Pro+**  
+- 🚀 Built **Zwigato**, **SQL Query Engine**, **DevCanvas**, **Monastery360**  
 - 🏅 **Contibute in Hacktoberfest & GSSOC 2025 as Open Source Contributer**  
 - 🎯 Aim: Build full-stack + AI-powered applications  
 
@@ -74,32 +74,90 @@
 
 ---
 
-# 🚀 **Featured Projects**
+Got it 👍 — now this is **placement-level polished + aligned with your resume** (only 3 projects, strong wording, correct description).
 
-## 🍽️ **Zwigato – Food Delivery App (MERN)**
-A complete food delivery system with:
-- Restaurant Management  
-- Cart + Orders  
-- Delivery Flow  
-- Clean UI | Full MERN stack  
+Use this directly in your GitHub README 👇
 
 ---
 
-## 🛕 **Monastery360 — Temple Virtual Experience Platform**
-A spirituality-based platform with:
-- Temple Information  
-- 360° Virtual Tour  
-- Schedules & Ritual Details  
-- Modern & clean UI  
+# 🚀 Featured Projects
+
+## 🍽️ Zwigato – Real-Time Order & Delivery Management System
+
+A **full-stack MERN-based order & delivery management system** simulating real-world applications.
+
+### 🔹 Features
+
+* 🛒 Cart, Checkout & Order Lifecycle Management
+* 🚚 Real-time delivery workflow with multi-role interaction
+* 🔐 Secure authentication using JWT
+* 📦 Restaurant & Menu Management System
+* 📊 Structured backend with scalable REST APIs
+
+### 🛠 Tech Stack
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `JWT` • `Tailwind CSS`
+
+### 🚀 Highlights
+
+* Built complete **end-to-end order lifecycle system**
+* Implemented **real-time updates using Socket.io**
+* Designed **production-level backend architecture**
 
 ---
 
-## 🛒 **Ecomart – Eco-Friendly Marketplace**
-A marketplace that promotes sustainability with:
-- Eco-Friendly Store  
-- Waste Pickup Service  
-- Reward System  
-- Community Features  
+## 🎨 DevCanvas – AI-Powered Online Code Editor & Execution Platform
+
+A **full-stack online code execution platform** with AI-powered assistance for developers.
+
+### 🔹 Features
+
+* 💻 Supports **multi-language code execution** (C/C++, Java, Python, JavaScript)
+* ⚡ Secure backend handling **200+ code runs/day**
+* 🤖 AI-powered debugging & code assistance
+* 🎙 Voice-to-code and 🖼 Image-to-text features
+* 🌐 Interactive and responsive UI
+
+### 🛠 Tech Stack
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `JavaScript` • `LLM APIs`
+
+### 🚀 Highlights
+
+* Built a **scalable online compiler system**
+* Integrated **AI features improving debugging efficiency (~40%)**
+* Strong focus on **performance + developer experience**
+
+---
+
+## 🧠 Mini SQL Query Engine – Custom Database Engine (Java)
+
+A **custom-built SQL-like query engine** developed from scratch to simulate core database functionalities.
+
+### 🔹 Features
+
+* 📂 Supports core SQL operations:
+
+  * `CREATE TABLE` (with data types)
+  * `INSERT INTO`
+  * `SELECT` (specific columns & `SELECT *`)
+  * `WHERE` with `AND / OR` conditions
+  * Comparison operators (`=`, `<`, `>`)
+  * `ORDER BY` (ASC / DESC)
+  * `UPDATE`
+  * `DELETE`
+* ⚙️ Query parsing and execution engine
+* 🗃 Efficient in-memory data handling using custom structures
+
+### 🛠 Tech Stack
+
+`Java` • `OOP` • `Collections Framework` • `File Handling`
+
+### 🚀 Highlights
+
+* Built **query parser + execution engine from scratch**
+* Simulates **real database behavior internally**
+* Demonstrates strong **DBMS concepts & low-level system design**
 
 ---
 
