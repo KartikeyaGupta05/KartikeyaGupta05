@@ -74,12 +74,6 @@
 
 ---
 
-Got it 👍 — now this is **placement-level polished + aligned with your resume** (only 3 projects, strong wording, correct description).
-
-Use this directly in your GitHub README 👇
-
----
-
 # 🚀 Featured Projects
 
 ## 🍽️ Zwigato – Real-Time Order & Delivery Management System
